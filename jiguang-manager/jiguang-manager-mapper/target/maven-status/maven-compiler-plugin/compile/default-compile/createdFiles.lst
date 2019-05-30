@@ -1,0 +1,11 @@
+com\jiguang\mapper\TbItemDescMapper.class
+com\jiguang\mapper\TbItemParamItemMapper.class
+com\jiguang\mapper\TbOrderItemMapper.class
+com\jiguang\mapper\TbOrderMapper.class
+com\jiguang\mapper\TbUserMapper.class
+com\jiguang\mapper\TbContentMapper.class
+com\jiguang\mapper\TbItemCatMapper.class
+com\jiguang\mapper\TbContentCategoryMapper.class
+com\jiguang\mapper\TbItemMapper.class
+com\jiguang\mapper\TbItemParamMapper.class
+com\jiguang\mapper\TbOrderShippingMapper.class
